@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there! I'm Jair Guadalupe Medina Enciso
 
-<!--
-**Shaasho/Shaasho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer with experience in game development, programming, and database systems. I love transforming ideas into interactive experiences through thoughtful design and clean code.
 
-Here are some ideas to get you started:
+## 💼 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎮 **Game Development**: Unity (C#), Game Design, 2D/3D prototyping and development  
+- 💻 **Programming Languages**: C#, C++, Java, JavaScript, PHP  
+- 🌐 **Web Development**: HTML, HTML5, PHP, MySQL  
+- 🧠 **Databases**: Modeling, complex queries, relational design  
+- 🎨 **Game Design**: Mechanics, storytelling, and systems balancing  
+
+## 🚀 Projects
+
+Check out some of my games on [Itch.io](https://shaasho.itch.io)  
+You’ll also find programming and web development projects here on my GitHub profile.
+
+## 📫 Let's connect!
+
+- 📧 Email: mejairguadalupe@gmail.com  
+- [LinkedIn](https://www.linkedin.com/in/jair-guadalupe-medina-enciso-b3ab4111b/)  
+- [Itch.io](https://shaasho.itch.io)
+
+---
